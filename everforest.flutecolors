@@ -1,0 +1,31 @@
+{
+  "EncodedImage": "",
+  "Name": "everforest",
+  "Author": null,
+  "Colors": {
+    "Foreground": "#D3C6AA",
+    "Background": "#2D353B",
+    "Cursor": "#FFFFFF",
+    "CursorAccent": "#000000",
+    "Selection": "rgba(255, 255, 255, 0)",
+    "SelectionForeground": null,
+    "SelectionBackground": null,
+    "Black": "#475258",
+    "Red": "#E67E80",
+    "Green": "#A7C080",
+    "Yellow": "#DBBC7F",
+    "Blue": "#7FBBB3",
+    "Magenta": "#D699B6",
+    "Cyan": "#83C092",
+    "White": "#D3C6AA",
+    "BrightBlack": "#4B565C",
+    "BrightRed": "#E67E80",
+    "BrightGreen": "#A7C080",
+    "BrightYellow": "#DBBC7F",
+    "BrightBlue": "#7FBBB3",
+    "BrightMagenta": "#D699B6",
+    "BrightCyan": "#83C092",
+    "BrightWhite": "#D3C6AA"
+  },
+  "BackgroundImage": null
+}
