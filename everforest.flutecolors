@@ -1,13 +1,13 @@
 {
   "EncodedImage": "",
   "Name": "everforest",
-  "Author": null,
+  "Author": "",
   "Colors": {
     "Foreground": "#D3C6AA",
     "Background": "#2D353B",
     "Cursor": "#FFFFFF",
     "CursorAccent": "#000000",
-    "Selection": "rgba(255, 255, 255, 0)",
+    "Selection": "rgba(255, 251, 239, 0.59765625)",
     "SelectionForeground": null,
     "SelectionBackground": null,
     "Black": "#475258",
