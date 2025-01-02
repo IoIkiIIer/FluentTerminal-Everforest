@@ -1,2 +1,2 @@
-## Everforest theme for fluent terminal
+## Everforest theme for [Fluent terminal](https://github.com/felixse/FluentTerminal)
 ![screenshot](screenshot.png)
